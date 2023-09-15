@@ -51,6 +51,19 @@ C:\Users\yourname> python "C:\Users\yourname\Desktop\file.py"
 Above is an example, it might not look exactly like that
 
 
-# IF YOU HAVE ANY ISSUES PLEASE FILE BUG REPORT I WILL DO MY BEST TO ANSWER THEM
+# IF YOU HAVE ANY ISSUES PLEASE FILE A BUG REPORT I WILL DO MY BEST TO ANSWER THEM
 
 # latest file is v2.0.1
+
+# Current Stipulations
+
+Only can be used for one question
+Currently only limited to Google Forms
+Cannot be used on Google Forms that require an e-mail
+Cannot be used on Google Forms that require a Captcha (right now)
+
+
+# Goals
+Make it be able to answer multiple questions
+Make it compatible with more than Google Forms
+Make it be able to answer a CAPTCHA
