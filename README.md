@@ -13,12 +13,12 @@ Selenium:
 
 CPU:
   I would recommend a beefier CPU, as one instance can be quite bulky, and running several instances of this program for maximum voting can cast a heavy toll on your CPU.
-  Tip: Use multiple computers for more voting capabilities!
+Tip: Use multiple computers for more voting capabilities!
 
 RAM:
   Minimum: 4 Gigabytes DDR3
-  Recommended: 16 Gigabytes DDR4
-  For Best Results: 524288 Gigabytes DDR7 (Don't have that much? Don't worry, you'll likely be okay with what you have)
+Recommended: 16 Gigabytes DDR4
+For Best Results: 524288 Gigabytes DDR7 (Don't have that much? Don't worry, you'll likely be okay with what you have)
 
 Everything else in a computer:
   Meh
@@ -34,8 +34,7 @@ Put that link where the <YOUR CHOSEN GOOGLE FORM> is (don't forget to remove the
 
 Next is the hard part. When you open the form to select your answer choice, right-click on the button and find the div id (LIKE THIS) -> ![image](https://github.com/KITKATKILLER67/Google-Forms-AutoAnswerBot/assets/58996262/1854e7de-8e64-429f-9fa1-14b3f40ea0a0)
 
-Find the div id (in this case it is i8
-and put it in the place of <DIV ID> in both spots
+Find the div id (in this case it is [i8] and put it in the place of <DIV ID> in both spots
 
 Don't forget to remove the angle brackets
 
@@ -58,12 +57,17 @@ Above is an example, it might not look exactly like that
 # Current Stipulations
 
 Only can be used for one question
+
 Currently only limited to Google Forms
+
 Cannot be used on Google Forms that require an e-mail
+
 Cannot be used on Google Forms that require a Captcha (right now)
 
 
 # Goals
 Make it be able to answer multiple questions
+
 Make it compatible with more than Google Forms
+
 Make it be able to answer a CAPTCHA
