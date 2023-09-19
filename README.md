@@ -5,7 +5,7 @@ An auto-answering bot for Google Forms (one question long only rn) that is fully
 # SYSTEM REQUIREMENTS:
 
 Python3: 
-  Download at {https://www.python.org/downloads/release/python-3115/}
+  Download at {https://www.python.org/downloads/release/python-3115/
 
 Selenium:
   After installing Python3, open the command line in Windows with administrator privileges, then type >>pip install selenium
